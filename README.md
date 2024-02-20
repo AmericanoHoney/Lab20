@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Natrada Nuchit
+# STUDENT ID: 660610757
